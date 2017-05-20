@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-testdouble",
+  "version": "1.0.0",
+  "description": "eslint plugin for testdoublejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Michael Main <michaelanthonymain@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "mocha": "^3.4.1"
+  }
+}
