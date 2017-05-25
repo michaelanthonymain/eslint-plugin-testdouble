@@ -15,6 +15,9 @@ Then add a reference to this plugin and selected rules in your eslint config:
   ],
   "env": {
     "testdouble/testdouble": true
+  },
+  "rules": {
+    "testdouble/object-creation": [ "error", "plain" ]
   }
 }
 ```
